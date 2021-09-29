@@ -8,6 +8,9 @@
 }
 body{
     background-image: url(quiz\ 3.jpg);
+    min-height: 100vh;
+    z-index: -10;
+    background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
 }
